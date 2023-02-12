@@ -1,16 +1,16 @@
-### Hi there 👋
+## Olá! Eu sou a Audrey Bergamine
 
-<!--
-**AudreyBergamine/AudreyBergamine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 😄 Sou estudante de TI
+- 📚 Cursando Tecnologia em Análise e Desenvolvimento de Sistemas
+- 🎓 Instituição: FATEC Ferraz de Vasconcelos
+- 📫 Contato: (11) 96473-5512 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <ahref="https://github.com/AudreyBergamine">
+  <img heigh="180em" src="https://github-readme-stats.vercel.app/api?username=audreybergamine&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img heigh="180em" src="https://github-readme-stats.vercel.app/api?top-langs/?username=audreybergamine&layout=compact&langs_count=168theme=dracula"/>
+  
+</div>
+<div style="display: inline_block"><br>
+<img align="center" alt="Rafa-Python" height="30" width="40" src=""https://raw.githubusercontent.com/devicons/devicon/master/icon/python/python-original.svg">
+<img align="center" alt="Rafa-Python" height="30" width="40" src=""https://raw.githubusercontent.com/devicons/devicon/master/icon/java/java-original.svg">
