@@ -10,9 +10,3 @@
   <img heigh="180em" src="https://github-readme-stats.vercel.app/api?username=audreybergamine&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img heigh="180em" src="https://github-readme-stats.vercel.app/api?top-langs/?username=audreybergamine&layout=compact&langs_count=168theme=dracula"/> 
 </div>
-  
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=audreybergamine&layout=dracula)](https://github.com/audreybergamine/github-readme-stats)
-  
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
- 
