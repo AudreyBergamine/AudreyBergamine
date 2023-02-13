@@ -4,7 +4,7 @@
 - 😄 Sou estudante de TI
 - 📚 Cursando Tecnologia em Análise e Desenvolvimento de Sistemas
 - 🎓 Instituição: FATEC Ferraz de Vasconcelos
-- 📫 Contato: (11) 96473-5512 
+- 📫 Contato: audreybergamini@outlook.com
 
 <div>
   <ahref="https://github.com/AudreyBergamine">
