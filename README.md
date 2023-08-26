@@ -16,6 +16,7 @@
   
 ## Linguagens: 
 <div style="display: inline_block" align="left"><br>
+  Backend:
 <img align="center" alt="python" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>     <img align="center" alt="HTML5" width="5%" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original-wordmark.svg"/>
 
 <img align="center" alt="PHP" width="5%" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-original.svg"/>
