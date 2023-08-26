@@ -23,6 +23,16 @@
 <h6>FrontEnd: </h6>
 <img align="center" alt="HTML5" width="5%" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original-wordmark.svg"/>
 <img align="center" alt="PHP" width="5%" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-original.svg"/>
+  
+<h6>Database: </h6>  
+
+<h6>Cloud: </h6>
+  
+<h6>Tools: </h6>
+  
+<h6>IDEs: </h6>
+<img align="center" alt="VSCode" width="5%" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg"/>
+
 </div>
   
   
