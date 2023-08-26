@@ -39,8 +39,8 @@
 </br></br>
   
 <h6>IDEs: </h6>
-<img align="center" alt="VSCode" width="5%" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg"/>     
-<img align="center" alt="Eclipse" width="9%" src="https://camo.githubusercontent.com/5395fa328395998163ba3ae03e20eb6cd633c2535f4149cc6b2f5fa40113ecaf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d45636c697073652d3243323235353f7374796c653d666c61742d737175617265266c6f676f3d65636c69707365266c6f676f436f6c6f723d7768697465"/>
+<img align="center" alt="VSCode" width="5%" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg"/>        
+<img align="center" alt="Eclipse" width="8%" src="https://camo.githubusercontent.com/5395fa328395998163ba3ae03e20eb6cd633c2535f4149cc6b2f5fa40113ecaf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d45636c697073652d3243323235353f7374796c653d666c61742d737175617265266c6f676f3d65636c69707365266c6f676f436f6c6f723d7768697465"/>
 
 </br></br>
 
