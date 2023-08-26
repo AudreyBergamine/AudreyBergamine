@@ -17,6 +17,7 @@
 ## Linguagens: 
 <div style="display: inline_block" align="left"><br>
 <img align="center" alt="python" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="center" alt="HTML5" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/HTML5/HTML5-original.svg"/>
  
 </div>
   
