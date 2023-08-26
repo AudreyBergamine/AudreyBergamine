@@ -31,7 +31,7 @@
 </br></br>
 
 <h6>Cloud: </h6>
-
+<img align="center" alt="GoogleCloud" width="5%" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg"/>
 </br></br>
   
 <h6>Tools: </h6>
