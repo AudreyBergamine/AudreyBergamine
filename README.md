@@ -14,7 +14,7 @@
    
   
   
-## Linguagens: 
+## Tecnologias: 
 <div style="display: inline_block" align="left"><br>
 <h6>Backend: </h6>
 <img align="center" alt="python" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>    
@@ -31,7 +31,7 @@
 </br></br>
 
 <h6>Cloud: </h6>
-<img align="center" alt="GoogleCloud" width="5%" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg"/>
+<img align="center" alt="GoogleCloud" width="10%" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg"/>
 </br></br>
   
 <h6>Tools: </h6>
