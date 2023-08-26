@@ -61,6 +61,6 @@
    
 ## Acesse meu linkedin:
 <div style="display: inline_block" align="left">
-<a href="https://www.linkedin.com/in/audrey-bergamine-a44b9325a/" target="blank"><img align="center" alt="linkedin" width="15%" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg"/>
+<a href="https://www.linkedin.com/in/audrey-bergamine-a44b9325a/" target="blank"><img align="center" alt="linkedin" width="10%" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg"/>
 
 </div>
