@@ -36,7 +36,7 @@
   
 <h6>Tools: </h6>
 
-</br></br>
+<hr><hr>
   
 <h6>IDEs: </h6>
 <img align="center" alt="VSCode" width="5%" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg"/>
