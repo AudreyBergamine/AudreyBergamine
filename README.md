@@ -18,7 +18,7 @@
 <div style="display: inline_block" align="left"><br>
 <h6>Backend: </h6>
 <img align="center" alt="python" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>    
-<img align="center" alt="Java" width="5%" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original-wordmark.svg"/>  
+<img align="center" alt="Java" width="6%" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original-wordmark.svg"/>  
 </br></br>
   
 <h6>FrontEnd: </h6>
