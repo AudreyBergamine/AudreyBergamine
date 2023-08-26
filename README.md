@@ -45,7 +45,7 @@
 </br></br>
 
 <h6>Análise de Dados: </h6>
-<img align="center" alt="PowerBI" width="5%" src=""/>
+<img align="center" alt="PowerBI" width="5%" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png"/>
 
 </br></br>
 
