@@ -23,7 +23,7 @@
   
 <h6>FrontEnd: </h6>
 <img align="center" alt="HTML5" width="5%" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original-wordmark.svg"/>
-<img align="center" alt="PHP" width="5%" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-original.svg"/>
+<img align="center" alt="PHP" width="7%" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-original.svg"/>
 </br></br>
   
 <h6>Database: </h6> 
