@@ -28,9 +28,6 @@
   
 <h6>Database: </h6> 
 
-</br></br>
-
-<h6>Cloud: </h6>
 <img align="center" alt="GoogleCloud" width="8%" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg"/>
 </br></br>
   
