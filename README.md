@@ -1,20 +1,22 @@
 
-## Olá! Eu sou a Audrey Bergamine
+## Olá! Eu sou a Audrey Bergamine!
+## Nice to meet you!
 
-- 😄 Sou estudante de TI
-- 📚 Cursando Tecnologia em Análise e Desenvolvimento de Sistemas
-- 🎓 Instituição: FATEC Ferraz de Vasconcelos
-- 📫 Contato: audreybergamini@outlook.com
+😄 Sou estudante de TI
+📚 Cursando Tecnologia em Análise e Desenvolvimento de Sistemas
+🎓 Instituição: FATEC Ferraz de Vasconcelos
+📫 Contato: audreybergamini@outlook.com
 
 <div>
   <ahref="https://github.com/AudreyBergamine">
   <img heigh="180em" src="https://github-readme-stats.vercel.app/api?username=AudreyBergamine&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
+## Soft Skills (minhas melhores habilidades): 
+✅ Comunicação
+✅ Trabalho em equipe
   
-   
-  
-  
-## Skills: 
+## Hard Skills: 
 <div style="display: inline_block" align="left"><br>
 <h6>Backend: </h6>
 <img align="center" alt="python" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>    
@@ -61,8 +63,8 @@
 
 <div>
   <a href="[https://github.com/AudreyBergamine](https://github.com/AudreyBergamine/)">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=audreyebergamine&show_icons=true&theme=dark_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=audreyebergamine&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=audreyebergaminec&show_icons=true&theme=dark_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=audreyebergaminec&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
 
