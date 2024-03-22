@@ -42,8 +42,7 @@
 
 <h6>Design e Comunicação Visual: </h6>
 <img align="center" alt="Canva" width="5%" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg"/>
-</br>
-</div>
+</div></br></br>
 
 ## Acesse meu linkedin:
 <div style="display: inline_block" align="left">
