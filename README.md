@@ -61,8 +61,8 @@
 
 <div>
   <a href="[https://github.com/AudreyBergamine](https://github.com/AudreyBergamine/)">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=audreyebergaminec&show_icons=true&theme=dark_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deividferreirac&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=audreyebergamine&show_icons=true&theme=dark_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=audreyebergamine&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
 
