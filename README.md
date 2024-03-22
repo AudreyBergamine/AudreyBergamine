@@ -14,10 +14,10 @@
 
 ## Soft Skills (minhas melhores habilidades): 
 ✅ Comunicação <br>
-✅ Trabalho em equipe <br>
+✅ Trabalho em equipe <br><br>
   
 ## Hard Skills: 
-<div style="display: inline_block" align="left"><br>
+<div style="display: inline_block" align="left">
 <h6>Backend: </h6>
 <img align="center" alt="python" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>    
 <img align="center" alt="Java" width="6%" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original-wordmark.svg"/>  
@@ -26,36 +26,27 @@
 <h6>FrontEnd: </h6>
 <img align="center" alt="HTML5" width="5%" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original-wordmark.svg"/>
 <img align="center" alt="PHP" width="6%" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-original.svg"/>
-</br></br>
+</br>
   
 <h6>Database: </h6> 
-
 <img align="center" alt="GoogleCloud" width="8%" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg"/>
 </br></br>
   
 <h6>Tools: </h6>
 <img align="center" alt="PowerBI" width="10%" src="https://github.com/AudreyBergamine/AudreyBergamine/blob/main/Power-BI-Symbol.png"/>
-</br></br>
+</br>
   
 <h6>IDEs: </h6>
 <img align="center" alt="VSCode" width="5%" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg"/>        
-<img align="center" alt="Eclipse" width="9%" src="https://camo.githubusercontent.com/5395fa328395998163ba3ae03e20eb6cd633c2535f4149cc6b2f5fa40113ecaf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d45636c697073652d3243323235353f7374796c653d666c61742d737175617265266c6f676f3d65636c69707365266c6f676f436f6c6f723d7768697465"/>
-
-</br></br>
+</br>
 
 <h6>Design e Comunicação Visual: </h6>
 <img align="center" alt="Canva" width="5%" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg"/>
-
-</br></br>
-
+</br>
 </div>
-  
-</br></br>
-  
-   
+
 ## Acesse meu linkedin:
 <div style="display: inline_block" align="left">
 <a href="https://www.linkedin.com/in/audrey-bergamine-a44b9325a/" target="blank"><img align="center" alt="linkedin" width="10%" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg"/>
-
 </div>
 
