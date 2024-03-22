@@ -13,7 +13,7 @@
 </div>
 
 ## Soft Skills (minhas melhores habilidades): 
-✅ Comunicação
+✅ Comunicação <br>
 ✅ Trabalho em equipe
   
 ## Hard Skills: 
