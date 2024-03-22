@@ -62,7 +62,7 @@
 
 
 <div>
-  <a href="[https://github.com/AudreyBergamine](https://github.com/AudreyBergamine/)">
+  <a href="https://github.com/AudreyBergamine">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=audreyebergaminec&show_icons=true&theme=dark_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=audreyebergaminec&layout=compact&langs_count=7&theme=dark"/>
   </a>
