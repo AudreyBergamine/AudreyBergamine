@@ -2,10 +2,10 @@
 ## Olá! Eu sou a Audrey Bergamine!
 ## Nice to meet you!
 
-😄 Sou estudante de TI
-📚 Cursando Tecnologia em Análise e Desenvolvimento de Sistemas
-🎓 Instituição: FATEC Ferraz de Vasconcelos
-📫 Contato: audreybergamini@outlook.com
+- 😄 Sou estudante de TI <br>
+- 📚 Cursando Tecnologia em Análise e Desenvolvimento de Sistemas <br>
+- 🎓 Instituição: FATEC Ferraz de Vasconcelos <br>
+- 📫 Contato: audreybergamini@outlook.com <br>
 
 <div>
   <ahref="https://github.com/AudreyBergamine">
