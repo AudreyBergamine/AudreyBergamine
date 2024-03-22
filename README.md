@@ -58,14 +58,17 @@
 </div>
 
 
+<!--
 <div>
   <a href="https://github.com/AudreyBergamine">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deividferreirac&show_icons=true&theme=dark_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deividferreirac&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deividferreirac&show_icons=true&theme=dark_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deividferreirac&layout=compact&langs_count=7&theme=dark"/>
+  </a>
 </div>
+-->
 	
 <div style="display: inline_block"><br>
-	<img align="center" alt="Deivid-Java" height="30" width="40" 
+	<img align="center" alt="Audrey-Java" height="30" width="40" 
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Deivid-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Deivid-Ht" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
