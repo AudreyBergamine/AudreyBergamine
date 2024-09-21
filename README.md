@@ -5,8 +5,9 @@
 - 😄 Sou estudante de TI <br>
 - 📚 Cursando Tecnologia em Análise e Desenvolvimento de Sistemas <br>
 - 🎓 Instituição: Faculdade de Tecnologia FATEC <br>
-- 📫 Contato: audreybergamini@outlook.com <br>
 - 🧙 Área de Especialização: Análise de Dados - Data Driven <br>
+- 📫 Contato: audreybergamini@outlook.com <br><br>
+
 
 <div>
   <ahref="https://github.com/AudreyBergamine">
