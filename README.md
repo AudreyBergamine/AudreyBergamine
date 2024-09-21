@@ -13,7 +13,6 @@
 <!--   <ahref="https://github.com/AudreyBergamine">
   <img heigh="180em" src="https://github-readme-stats.vercel.app/api?username=AudreyBergamine&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
 </div>
-</br>
 
 ## Soft Skills (minhas melhores habilidades): 
 ✅ Comunicação <br>
