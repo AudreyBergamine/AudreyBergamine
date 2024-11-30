@@ -13,8 +13,8 @@
 - Melhoria de 20% na eficiência operacional através de técnicas de mineração de dados e visualização
 
 <div>
-<!--   <ahref="https://github.com/AudreyBergamine">
-  <img heigh="180em" src="https://github-readme-stats.vercel.app/api?username=AudreyBergamine&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
+  <ahref="https://github.com/AudreyBergamine">
+  <img heigh="180em" src="https://github-readme-stats.vercel.app/api?username=AudreyBergamine&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ## Soft Skills (minhas melhores habilidades): 
@@ -59,10 +59,12 @@
 <a href="https://www.linkedin.com/in/audreybergamini/" target="blank"><img align="center" alt="linkedin" width="10%" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg"/>
 </div>
 
+
+
 <div>
-  <a href="https://github.com/AudreyBergamine">
+<!--   <a href="https://github.com/AudreyBergamine">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AudreyBergamine&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AudreyBergamine&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
+  </a> -->
 </div>
 
