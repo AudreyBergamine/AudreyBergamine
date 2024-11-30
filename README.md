@@ -11,7 +11,7 @@
 ### Experiência
 - Projetos de análise de dados utilizando Power BI, SQL, Linguagem DAX, Python, Excel
 - Desenvolvimento de Software utilizando Java, Spring Boot, javascript, CSS, HTML.
-
+ <br><br>
 
 
 ## Soft Skills (minhas melhores habilidades): 
