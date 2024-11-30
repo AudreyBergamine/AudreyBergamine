@@ -13,6 +13,7 @@
 - Desenvolvimento de Software utilizando Java, Spring Boot, javascript, CSS, HTML.
 
 
+
 ## Soft Skills (minhas melhores habilidades): 
 ✅ Comunicação <br>
 ✅ Trabalho em equipe <br><br>
