@@ -8,7 +8,7 @@
 - 🧙 Área de Especialização: Análise de Dados - Data Driven <br>
 - 📫 Contato: audreybergamini@outlook.com <br><br>
 
-### Experiência
+## Experiência
 - Projetos de análise de dados utilizando Power BI, SQL, Linguagem DAX, Python, Excel
 - Desenvolvimento de Software utilizando Java, Spring Boot, javascript, CSS, HTML.
  <br><br>
