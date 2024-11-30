@@ -8,6 +8,9 @@
 - 🧙 Área de Especialização: Análise de Dados - Data Driven <br>
 - 📫 Contato: audreybergamini@outlook.com <br><br>
 
+### Experiência
+- Projetos de análise de dados utilizando Python e Power BI
+- Melhoria de 20% na eficiência operacional através de técnicas de mineração de dados e visualização
 
 <div>
 <!--   <ahref="https://github.com/AudreyBergamine">
@@ -47,8 +50,19 @@
 <img align="center" alt="Figma" width="5%" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"/>
 </div></br></br>
 
+### Contato
+📫 Entre em contato: audreybergamini@outlook.com
+[LinkedIn](https://www.linkedin.com/in/audreybergamini/)
+
 ## Acesse meu linkedin:
 <div style="display: inline_block" align="left">
 <a href="https://www.linkedin.com/in/audreybergamini/" target="blank"><img align="center" alt="linkedin" width="10%" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg"/>
+</div>
+
+<div>
+  <a href="https://github.com/AudreyBergamine">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AudreyBergamine&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AudreyBergamine&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
 
