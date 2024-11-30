@@ -43,7 +43,7 @@
 </br>
 
 <h6>Design e Comunicação Visual: </h6>
-<img align="center" alt="Canva" width="5%" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg"/>
+<img align="center" alt="Canva" width="5%" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg"/> </br>
 <img align="center" alt="Figma" width="5%" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"/>
 </div></br></br>
 
