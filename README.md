@@ -9,8 +9,8 @@
 - 📫 Contato: audreybergamini@outlook.com <br><br>
 
 ### Experiência
-- Projetos de análise de dados utilizando Python e Power BI
-- Melhoria de 20% na eficiência operacional através de técnicas de mineração de dados e visualização
+- Projetos de análise de dados utilizando Power BI, SQL, Linguagem DAX, Python, Excel
+- Desenvolvimento de Software utilizando Java, Spring Boot, javascript, CSS, HTML.
 
 
 ## Soft Skills (minhas melhores habilidades): 
