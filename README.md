@@ -120,11 +120,14 @@ Busco uma oportunidade como **Analista de Dados Júnior** ou **Business Intellig
 
 ---
 
-## 📊 Estatísticas do GitHub
+<!-- !## 📊 Estatísticas do GitHub -->
 
-<!-- ![Audrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=AudreyBergamine&show_icons=true&theme=dracula&include_all_commits=true&count_private=true) -->
+<!-- !
+[Audrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=AudreyBergamine&show_icons=true&theme=dracula&include_all_commits=true&count_private=true) -->
 
-<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AudreyBergamine&layout=compact&langs_count=7&theme=dracula) -->
+<!-- !
+[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AudreyBergamine&layout=compact&langs_count=7&theme=dracula) 
+-->
 
 ---
 
