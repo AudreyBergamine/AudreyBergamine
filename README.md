@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou a Audrey Bergamini!
+# 👋 Sejam Bem vindos! Eu sou a Audrey Bergamini!
 
 ## 📊 Analista de Dados | Business Intelligence | Data-Driven
 
