@@ -2,8 +2,8 @@
 ## Olá! Eu sou a Audrey Bergamini!
 ## Nice to meet you!
 
-- 😄 Sou estudante de TI <br>
-- 📚 Cursando Tecnologia em Análise e Desenvolvimento de Sistemas <br>
+- 😄 Eterna estudante (Curiosa) <br>
+- 📚 Graduada em ADS (Análise e Desenvolvimento de Sistemas) <br>
 - 🎓 Instituição: Faculdade de Tecnologia FATEC <br>
 - 🧙 Área de Especialização: Análise de Dados - Data Driven <br>
 - 📫 Contato: audreybergamini@outlook.com <br><br>
